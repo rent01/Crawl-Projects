@@ -1,0 +1,9 @@
+TCMSP means： Traditional Chinese Medicine Database and Analysis Platform
+This is a database and platform that contains information aout Chinses Herbal Medicines.
+
+爬取方式为：获取草药信息
+TCMSP是中药数据库，里面提供各种各样中药名约500个。
+其中包含了中药的靶点信息、药效和治疗方式
+
+此数据库来源于：中国西北大学，生命学院成功构建中药系统药理学数据库和分析平台
+网站：https://tcmsp-e.com/
